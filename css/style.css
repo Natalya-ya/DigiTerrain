@@ -270,7 +270,7 @@ PRICING SECTION
       rgba(25, 46, 25, 0.815),
       rgba(29, 53, 29, 0.808)
     ),
-    url(../img/chick.jpg);
+    url("../img/chick.jpg");
   background-size: cover;
   color: white;
 }
@@ -350,7 +350,7 @@ BUY DIGITERRIAN SECTION
       rgba(242, 250, 242, 0.98),
       rgba(242, 250, 242, 0.2)
     ),
-    url(../img/photo.jpg);
+    url("../img/photo.jpg");
   background-size: cover;
 }
 .buy-div {
